@@ -1,0 +1,10 @@
+.pyc
+*.c
+.DS_Store
+build
+*.so
+.idea
+.eggs/
+*.egg-info
+*.pyd
+hmm/*.html
